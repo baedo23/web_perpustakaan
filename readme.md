@@ -4,11 +4,11 @@ Repositori ini berisi *source code* untuk Tugas Terstruktur Pemrograman Web: **P
 
 ## 👨‍💻 Identitas Mahasiswa
 
-* **Nama:** \[Isi Nama Anda\]
+* **Nama:** BAEDO HADI PERWIRA ACHMAD
 
-* **NPM / NIM:** \[Isi NPM/NIM Anda\]
+* **NPM / NIM:** 2513020033
 
-* **Program Studi:** \[Isi Program Studi Anda\]
+* **Program Studi:** SISTEM INFORMASI
 
 * **Mata Kuliah:** Pemrograman Web
 
@@ -143,18 +143,22 @@ project_perpustakaan/
 
 ### 1. Halaman Login
 
-\[Masukkan Screenshot Halaman Login\]
+<img width="1366" height="768" alt="Screenshot 2026-11-04 005356" src="https://github.com/user-attachments/assets/975030a6-ba8f-4df8-9bbd-2ff111013cf4" />
 
 ### 2. Dashboard - Akses Admin (Full CRUD & Manajemen User)
 
-\[Masukkan Screenshot Dashboard Admin\]
+<img width="1366" height="768" alt="Screenshot 2026-11-04 013614" src="https://github.com/user-attachments/assets/fc5eaca1-0b28-4cf5-846b-babb5fba6691" />
 
 ### 3. Dashboard - Akses User (Fitur Pinjam Buku)
 
-\[Masukkan Screenshot Dashboard User\]
+<img width="1366" height="768" alt="Screenshot 2026-11-04 013744" src="https://github.com/user-attachments/assets/8b5f8522-df84-41f5-8331-0181dd2f32a0" />
 
-### 4. Form Tambah Data (Desain Elegan)
+### 4. Form Tambah User (Desain Elegan)
 
-\[Masukkan Screenshot Form\]
+<img width="1366" height="768" alt="Screenshot 2026-11-04 010246" src="https://github.com/user-attachments/assets/5676ac52-000a-4bbd-bbe6-fab55b58f9bc" />
+
+### 5. Form Tambah Buku (Desain Elegan)
+
+<img width="1366" height="768" alt="Screenshot 2026-11-04 010323" src="https://github.com/user-attachments/assets/e10f240d-5962-47ec-b05f-bfa593bdbc9d" />
 
 *Dibuat untuk memenuhi Tugas Terstruktur Mata Kuliah Pemrograman Web.*
