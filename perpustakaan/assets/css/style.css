@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+body { font-family: 'Poppins', sans-serif; background-color: #f4f7f6; color: #333; }
+.card { border: none; border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04); overflow: hidden; }
+.card-header { background-color: #fff; border-bottom: 1px solid #f0f0f0; padding: 1.5rem; }
+.form-control, .form-select { border-radius: 10px; padding: 0.75rem 1.25rem; border: 1px solid #e0e0e0; background-color: #fafafa; transition: all 0.3s; }
+.form-control:focus, .form-select:focus { box-shadow: 0 0 0 4px rgba(67, 97, 238, 0.1); border-color: #4361ee; background-color: #fff; }
+label { font-weight: 500; color: #555; font-size: 0.9rem; margin-bottom: 0.4rem; }
+.btn { border-radius: 10px; padding: 0.6rem 1.5rem; font-weight: 500; transition: all 0.3s; }
+.btn-primary { background-color: #4361ee; border-color: #4361ee; }
+.btn-primary:hover { background-color: #3a53d0; border-color: #3a53d0; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(67, 97, 238, 0.3); }
+.navbar-custom { background-color: #fff; box-shadow: 0 2px 15px rgba(0,0,0,0.03); padding: 1rem 0; }
+.navbar-brand { color: #4361ee !important; font-weight: 700; font-size: 1.4rem; }
+.table-wrapper { overflow-x: auto; }
+.table { border-collapse: separate; border-spacing: 0 10px; margin-top: -10px; }
+.table thead th { border-bottom: none; color: #888; font-weight: 600; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.5px; padding: 0 1rem; }
+.table tbody tr { background-color: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.02); transition: transform 0.2s, box-shadow 0.2s; }
+.table tbody tr:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(0,0,0,0.06); }
+.table tbody td { border-top: none; border-bottom: none; vertical-align: middle; padding: 1rem; }
+.table tbody td:first-child { border-top-left-radius: 12px; border-bottom-left-radius: 12px; }
+.table tbody td:last-child { border-top-right-radius: 12px; border-bottom-right-radius: 12px; }
+.badge { padding: 0.6em 1em; font-weight: 500; border-radius: 8px; }
+.bg-soft-success { background-color: #d1e7dd; color: #0f5132; }
+.bg-soft-danger { background-color: #f8d7da; color: #842029; }
+.login-bg { background: linear-gradient(135deg, #f4f7f6 0%, #e0eafc 100%); }
